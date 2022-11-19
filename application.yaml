@@ -10,6 +10,6 @@ eureka:
 # JWT
 security:
   jwt:
-    secret: ${JWT_SECRET:VfhM0XDqDzmobsu90rvnrxTd55Tk5nOA+oyQnTu0AsZBR3PP4tK5kqY12j/GB9HC2jFJQeqjO15sJsqGxAjCSw==}
+    secret: ${JWT_SECRET:YlhsemRYQXpjbk16WTNJemRHTXdaRE5tTUhKcWQzUT0=}
     access-token-expiration: 3600000
     refresh-token-expiration: 86400000
